@@ -1,4 +1,6 @@
 # Asset-240106-livetoon-HDRP
+## デモ映像
+https://x.com/toshikun_0112/status/1743573616976130406?s=20
 ## これは何？
 - HDRP対応のToonシェーダです
 - バーチャルライブ用途に特化させる予定です
